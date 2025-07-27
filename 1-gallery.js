@@ -4,7 +4,7 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                
       <img
         class="gallery-image"
         src="${o.preview}"
-        data-source="${o.original}"
+        
         alt="${o.description}"
       />
     </a>
