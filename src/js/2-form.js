@@ -1,3 +1,5 @@
+console.log('Script loaded!');
+
 const formData = {
   email: '',
   message: '',
