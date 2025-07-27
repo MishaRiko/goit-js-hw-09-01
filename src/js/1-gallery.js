@@ -75,7 +75,7 @@ const markup = images
       <img
         class="gallery-image"
         src="${image.preview}"
-        data-source="${image.original}"
+        
         alt="${image.description}"
       />
     </a>
